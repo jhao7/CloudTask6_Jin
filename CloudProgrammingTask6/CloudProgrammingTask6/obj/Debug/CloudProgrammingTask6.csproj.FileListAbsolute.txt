@@ -117,3 +117,7 @@ C:\Users\Student\Documents\GitHub\CloudTask6_Jin\CloudProgrammingTask6\CloudProg
 C:\Users\Student\Documents\GitHub\CloudTask6_Jin\CloudProgrammingTask6\CloudProgrammingTask6\obj\Debug\CloudProgrammingTask6.csproj.CopyComplete
 C:\Users\Student\Documents\GitHub\CloudTask6_Jin\CloudProgrammingTask6\CloudProgrammingTask6\obj\Debug\CloudProgrammingTask6.dll
 C:\Users\Student\Documents\GitHub\CloudTask6_Jin\CloudProgrammingTask6\CloudProgrammingTask6\obj\Debug\CloudProgrammingTask6.pdb
+C:\Users\Student\Documents\GitHub\CloudTask6_Jin\CloudProgrammingTask6\CloudProgrammingTask6\obj\Debug\CloudProgrammingTask6.csprojAssemblyReference.cache
+C:\Users\Student\Documents\GitHub\CloudTask6_Jin\CloudProgrammingTask6\CloudProgrammingTask6\obj\Debug\CloudProgrammingTask6.Migrations.InitialCreate.resources
+C:\Users\Student\Documents\GitHub\CloudTask6_Jin\CloudProgrammingTask6\CloudProgrammingTask6\obj\Debug\CloudProgrammingTask6.csproj.GenerateResource.cache
+C:\Users\Student\Documents\GitHub\CloudTask6_Jin\CloudProgrammingTask6\CloudProgrammingTask6\obj\Debug\CloudProgrammingTask6.Migrations.InitialCreate1.resources
